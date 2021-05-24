@@ -25,6 +25,20 @@ public class OperacionesTest
     	assertEquals(16,Operaciones.multiplicacion(4, 4));
     }
     @Test
+    public void Pruebamultiplicacion2()
+    {
+    	assertEquals(50,Operaciones.multiplicacion(5, 10));
+    }    
+   
+    @Test
+    public void Pruebamultiplicacion3()
+    {
+    	assertEquals(24,Operaciones.multiplicacion(3, 8));
+    }
+    
+    
+    
+    @Test
     public void Pruebadivision1()
     {
 
