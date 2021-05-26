@@ -33,7 +33,7 @@ public class OperacionesTest
     @Test
     public void Pruebamultiplicacion3()
     {
-    	assertEquals(24,Operaciones.multiplicacion(3, 8));
+    	assertEquals(25,Operaciones.multiplicacion(3, 8));
     }
     
     
