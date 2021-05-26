@@ -1,4 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: com.arodpes.prueba04.OperacionesTest
 -------------------------------------------------------------------------------
-Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.001 s - in com.arodpes.prueba04.OperacionesTest
+Tests run: 5, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.002 s <<< FAILURE! - in com.arodpes.prueba04.OperacionesTest
+Pruebamultiplicacion3(com.arodpes.prueba04.OperacionesTest)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError: expected:<25> but was:<24>
+	at com.arodpes.prueba04.OperacionesTest.Pruebamultiplicacion3(OperacionesTest.java:36)
+
